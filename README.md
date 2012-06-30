@@ -1,7 +1,7 @@
 hskitchen
 =========
 
-HS batch[3] kitchen todos
+HS batch[3] kitchen info, todos, wishlist, issues, etc.
 
 ## Stuff to get
 
