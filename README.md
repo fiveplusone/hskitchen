@@ -1,7 +1,7 @@
 hskitchen
 =========
 
-HS batch[3] kitchen info, todos, wishlist, issues, etc.
+HS batch[3] room 740 food preparation infrastructure information, todos, wishlist, issues, etc.
 
 ## Stuff to get
 
