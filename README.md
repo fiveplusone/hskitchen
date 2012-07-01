@@ -26,6 +26,7 @@ HS batch[3] room 740 food preparation infrastructure information, todos, wishlis
 + PB
 + Bananas
 + Apples
++ Amazing cola from Whole Foods (no high-fructose corn sugar)
 
 ## Things to remember
 
