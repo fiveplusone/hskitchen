@@ -5,11 +5,26 @@ HS batch[3] room 740 food preparation infrastructure information, todos, wishlis
 
 ## Stuff to get
 
+### Gear
+
 + Frying pan
-+ Another hot plate
-+ Small table
-+ Knife
++ Small table [davidalbert will secure this from Etsy]
++ Utensils
+    + Big knife
+    + Big chopsticks?
+    + Big spoon?
+    + Regular metal fork
 + Cutting board
+
+### Food
+
++ Non-dairy pasta sauce
++ Couscous
++ Vegetables
++ 1 doz eggs
++ PB
++ Bananas
++ Apples
 
 ## Things to remember
 
@@ -17,8 +32,8 @@ HS batch[3] room 740 food preparation infrastructure information, todos, wishlis
 
 ## How to contribute
 
-1. Make a fork... or buy one.
-2. Fix an issue or scratch your own itch. This usually involves buying food and equipment.
-3. Cook! Or join someone else's party.
++ Make a fork... or buy one.
++ Fix an issue or scratch your own itch. This usually involves buying food and equipment.
++ Cook! Or join someone else's party.
 
-Please make sure your contributions are in balance with your consumptions.
+Please try to keep your contributions approximately in balance with your consumptions. See LICENSE for additional information.
