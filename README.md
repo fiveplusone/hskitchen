@@ -9,6 +9,7 @@ HS batch[3] room 740 food preparation infrastructure information, todos, wishlis
 
 + Frying pan
 + Small table [davidalbert will secure this from Etsy]
++ Broom and dust pan
 + Utensils
     + Big knife
     + Big chopsticks?
